@@ -1,0 +1,7 @@
+hyyb/
+hyyb_pdf/
+*.txt
+*.log
+*.bkp
+*.pyc
+.ipynb_checkpoints/
